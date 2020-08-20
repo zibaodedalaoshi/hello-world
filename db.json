@@ -3,24 +3,28 @@
     { "category": "reference",
       "author": "Nigel Rees",
       "title": "Sayings of the Century",
-      "price": 8.95
+      "price": 8.95,
+      "add":666
     },
     { "category": "fiction",
       "author": "Evelyn Waugh",
       "title": "Sword of Honour",
-      "price": 12.99
+      "price": 12.99,
+      "add":666
     },
     { "category": "fiction",
       "author": "Herman Melville",
       "title": "Moby Dick",
       "price": 8.99,
-      "isbn": "0-553-21311-3"
+      "isbn": "0-553-21311-3",
+      "add":666,
     },
     { "category": "fiction",
       "author": "J.R.R. Tolkien",
       "title": "The Lord of the Rings",
       "price": 22.99,
-      "isbn": "0-395-19323-5"
+      "isbn": "0-395-19323-5",
+      "add":666
     }
   ],
   "bicycle": {
